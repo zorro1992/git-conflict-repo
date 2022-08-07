@@ -1,1 +1,1 @@
-print("This is example for git conflict")
+print("PR-02")
